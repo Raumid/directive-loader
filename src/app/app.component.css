@@ -48,3 +48,8 @@ button:hover {
 input.ng-invalid.ng-touched {
     border: solid 2px red !important
 }
+
+button:disabled {
+    background-color: #007bff;
+    opacity: 0.5;
+}
